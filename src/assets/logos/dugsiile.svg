@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="552" height="552" viewBox="0 0 552 552">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_20" data-name="Rectangle 20" width="552" height="552" rx="16" transform="translate(-1938 156)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1.279" y1="0.583" x2="0" y2="0.583" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#84e0f1"/>
+      <stop offset="0.588" stop-color="#009688"/>
+      <stop offset="1" stop-color="#017969"/>
+    </linearGradient>
+    <filter id="D" x="-16" y="-192" width="555" height="825" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="icon" transform="translate(1938 -156)" clip-path="url(#clip-path)">
+    <g id="icon-2" data-name="icon" transform="translate(-1938 -16.203)">
+      <rect id="background" width="552" height="552" transform="translate(0 172.203)" fill="url(#linear-gradient)"/>
+      <g transform="matrix(1, 0, 0, 1, 0, 172.2)" filter="url(#D)">
+        <text id="D-2" data-name="D" transform="translate(14 478)" fill="#fff" font-size="637" font-family="SansitaSwashed-Regular, Sansita Swashed"><tspan x="0" y="0">D</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
