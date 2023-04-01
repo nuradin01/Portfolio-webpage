@@ -65,7 +65,7 @@ const PROJECTS: IProject[] = [
 			{ name: 'DotNet', Logo: dotnetcoreLogo },
 			{ name: 'MSSQL', Logo: mssqlLogo },
 		],
-		liveUrl: 'https://bulky.azurewebsites.net/',
+		liveUrl: 'https://dhigane.azurewebsites.net/',
 		githubUrl: 'https://github.com/nuradin01/dhigane',
 	},
 ];
